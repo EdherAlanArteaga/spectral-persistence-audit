@@ -2,6 +2,7 @@
 
 **Author:** Edher Alan Arteaga Marroquín — [ORCID 0009-0004-7333-1975](https://orcid.org/0009-0004-7333-1975)
 **Status:** Paused / at rest. Version 5.0. Not peer reviewed.
+**DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21815650.svg)](https://doi.org/10.5281/zenodo.21815650)
 
 ## What this is
 
@@ -100,8 +101,14 @@ of the paper for the full account.
 
 ## Citation
 
-If you reference this work, please cite via ORCID 0009-0004-7333-1975 and
-the Zenodo DOI (to be added once deposited).
+If you reference this work, please cite:
+
+> Arteaga Marroquín, E. A. (2026). *A Systematic Empirical Evaluation of
+> Spectral Persistence Observables in Complex Networks* (Version 5.0)
+> [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.21815650
+
+ORCID: [0009-0004-7333-1975](https://orcid.org/0009-0004-7333-1975)
+DOI: [10.5281/zenodo.21815650](https://doi.org/10.5281/zenodo.21815650)
 
 ## License
 
